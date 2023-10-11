@@ -48,6 +48,7 @@ This project has a Public Module and Admin Module. The Admin module is the side 
 ## Installation/Setup
 - Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL.
 - Extract the downloaded source code zip file.
+- After extracting the zip file,rename the extracted folder from 'car_service_center-main' to 'car_service_center'.
 - If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory. And If you are using WAMP, paste it into the "www" directory.
 - Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 - Create a new database naming car_service_center_db.
